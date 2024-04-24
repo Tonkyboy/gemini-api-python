@@ -12,7 +12,7 @@ pip install -q -U google-generativeai
 ```
 
 # Short Way
-## Grab an API Key here (https://ai.google.dev/)
-## Get the Boilerplatecode from my Repo
-## Use the API for your Projects
-## Get more advanced Infos on my Channel [@Cod1ngTogether](https://www.youtube.com/@Cod1ngTogether) or here: [Google AI for Developers](https://ai.google.dev/gemini-api/docs/get-started/python)
+### Grab an API Key here (https://ai.google.dev/)
+### Get the Boilerplatecode from my Repo
+### Use the API for your Projects
+### Get more advanced Infos on my Channel [@Cod1ngTogether](https://www.youtube.com/@Cod1ngTogether) or here: [Google AI for Developers](https://ai.google.dev/gemini-api/docs/get-started/python)

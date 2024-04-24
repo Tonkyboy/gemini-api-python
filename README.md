@@ -9,7 +9,7 @@ Have fun with it!
 ```
 pip install python-dotenv
 pip install -q -U google-generativeai
-'''
+```
 
 # Short Way
 ## Grab an API Key here (https://ai.google.dev/)
